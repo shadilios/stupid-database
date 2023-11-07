@@ -1,0 +1,17 @@
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\class-1.exe
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\class-1.deps.json
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\class-1.runtimeconfig.json
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\class-1.dll
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\class-1.pdb
+E:\Programming\Dotnet\Classes\Class 1\class-1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.csproj.AssemblyReference.cache
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.AssemblyInfoInputs.cache
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.AssemblyInfo.cs
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.csproj.CoreCompileInputs.cache
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.csproj.CopyComplete
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.dll
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\refint\class-1.dll
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.pdb
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\class-1.genruntimeconfig.cache
+E:\Programming\Dotnet\Classes\Class 1\class-1\obj\Debug\net6.0\ref\class-1.dll
