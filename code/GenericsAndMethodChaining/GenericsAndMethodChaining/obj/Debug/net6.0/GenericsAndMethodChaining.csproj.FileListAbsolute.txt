@@ -1,0 +1,15 @@
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\bin\Debug\net6.0\GenericsAndMethodChaining.exe
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\bin\Debug\net6.0\GenericsAndMethodChaining.deps.json
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\bin\Debug\net6.0\GenericsAndMethodChaining.runtimeconfig.json
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\bin\Debug\net6.0\GenericsAndMethodChaining.dll
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\bin\Debug\net6.0\GenericsAndMethodChaining.pdb
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.csproj.AssemblyReference.cache
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.AssemblyInfoInputs.cache
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.AssemblyInfo.cs
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.csproj.CoreCompileInputs.cache
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.dll
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\refint\GenericsAndMethodChaining.dll
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.pdb
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\GenericsAndMethodChaining.genruntimeconfig.cache
+E:\Programming\Dotnet\Classes\GenericsAndMethodChaining\GenericsAndMethodChaining\obj\Debug\net6.0\ref\GenericsAndMethodChaining.dll
